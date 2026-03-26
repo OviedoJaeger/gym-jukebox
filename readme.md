@@ -1,0 +1,1 @@
+Aplicación web creada para facilitar a los usuarios de un gimnasio el reproducir musica a través de la cuenta de Spotify del gimnasio, garantizando la comodiad y evitar la manipulación directa de la aplicación de Spotify para prevenir problemas de seguridad.
